@@ -1,1 +1,1 @@
-# chicken-jump-quest-privacy
+ChickenJoy-privacy
